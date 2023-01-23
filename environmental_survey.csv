@@ -1,0 +1,13 @@
+source;target;value
+Industrial worker;Male;4
+Industrial worker;Female;0
+Student;Male;3
+Student;Female;4
+Nurse;Male;1
+Nurse;Female;5
+Scientists;Male;3
+Scientists;Female;2
+Male;Not Environmentally concerned;5
+Male;Environmentally concerned;6
+Female;Not Environmentally concerned;3
+Female;Environmentally concerned;8
